@@ -5,7 +5,8 @@
     }
 
     .texto {
-        margin-right: unset;
+        margin-right: 50px;
+        /* margin-right: unset; */
     }
 
     h1 {
@@ -34,7 +35,7 @@
 
     h1 {
         line-height: unset;
-    }
+    } 
     
     footer {
         height: 200px;
@@ -44,6 +45,11 @@
     
     .imagem {
         width: 100%;
+    }
+
+    .imagem img {
+        width: 18em;
+        border-radius: 3em;
     }
     
     #perfil-container {
